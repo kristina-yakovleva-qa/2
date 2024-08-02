@@ -1,1 +1,1 @@
-# https://ilyattsk.github.io/ - Сайт-визитка
+# https://kristina-yakovleva.github.io/ - Сайт-визитка
