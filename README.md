@@ -1,2 +1,1 @@
-# cv
-Сайт визитка HTML, CSS
+# https://ilyattsk.github.io/ - Сайт-визитка
